@@ -1,4 +1,4 @@
-module github.com/FISCO-BCOS/go-sdk
+module github.com/cuiyuchain/go-sdk
 
 go 1.16
 
